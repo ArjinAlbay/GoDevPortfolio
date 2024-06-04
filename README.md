@@ -22,10 +22,9 @@ This project sets up a simple Go server to serve static HTML files and uses `nod
 ## Project Structure
 
 ```
-myproject/
+GoDevPortfolio/
 ├── main.go
 ├── static/
-│   ├── styles.css
 │   ├── home.html
 │   ├── cv.html
 │   └── blog.html
