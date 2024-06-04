@@ -22,7 +22,7 @@ GoPortfolioSite is a personal portfolio website designed to present my projects,
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/yourusername/GoPortfolioSite.git
+    git clone https://github.com/ArjinAlbay/GoDevPortfolio.git
     ```
 2. Navigate to the project directory
     ```bash

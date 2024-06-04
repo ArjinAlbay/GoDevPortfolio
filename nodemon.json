@@ -1,0 +1,5 @@
+{
+  "watch": ["*.go", "*.html", "static/*.css"],
+  "ext": "go html css",
+  "exec": "go run main.go"
+}
