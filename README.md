@@ -75,10 +75,6 @@ GoDevPortfolio/
 - Navigate to `http://127.0.0.1:3000/cv` to see the CV page.
 - Navigate to `http://127.0.0.1:3000/blog` to see the blog page.
 
-### Prerequisites
-
-- [Go](https://golang.org/doc/install)
-- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Contributing
 
