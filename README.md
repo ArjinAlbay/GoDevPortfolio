@@ -18,6 +18,7 @@ This project sets up a simple Go server to serve static HTML files and uses `nod
 
 - Go (https://golang.org/dl/)
 - Node.js and npm (https://nodejs.org/)
+- Nodemen (https://nodemon.io/)
 
 ## Project Structure
 
